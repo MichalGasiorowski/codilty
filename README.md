@@ -1,4 +1,4 @@
 codilty
 =======
 
-Repo for practice of https://codility.com/ problems
+Repo for practice of https://codility.com/programmers/lessons/ 
